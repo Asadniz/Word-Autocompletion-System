@@ -5,5 +5,5 @@ This is a frequency based skeleton-model of a word autocompletion-system, done i
 . Clone the repository\
 . Open the files together in an IDE\
 . Run the Display.py file\
-. On the terminal, write 'python3 -m streamlit run Display.py'\
+. Write 'python3 -m streamlit run Display.py' on the terminal\
 . Enjoy!
